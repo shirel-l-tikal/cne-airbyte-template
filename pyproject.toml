@@ -1,0 +1,15 @@
+[project]
+name = "cne-airbyte-template"
+version = "0.1.0"
+description = "Airbyte config template integrating with Dagster and DBT conventions"
+requires-python = ">=3.10"
+dependencies = [
+  "pyyaml>=6.0",
+  "requests>=2.31.0",
+  "python-dotenv>=1.0.1",
+]
+
+[tool.uv]
+dev-dependencies = []
+
+

@@ -1,0 +1,8 @@
+.env
+.env.*
+.keys/
+config/connections.yaml
+__pycache__/
+*.pyc
+
+
